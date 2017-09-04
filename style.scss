@@ -1,0 +1,28 @@
+p, .container-fluid {
+  margin-right: 10%;
+  margin-left: 10%;
+  padding-bottom: 20px;
+  text-align: center;
+  color: black;
+  font-family: 'baseline';
+}
+body {
+  position: relative;
+  background-color: silver;
+}
+.well {
+  margin-right: 3%;
+  margin-left: 3%;
+  background-color: green;
+}
+footer {
+  min-height: 8vh;
+  padding-top: 20px;
+  padding-bottom: 1px;
+  background-color: green;
+}
+section {
+  min-height: 91.8vh;
+  font-size: 18px;
+  font-weight: 300;
+}
